@@ -1,0 +1,5 @@
+{
+  "name": "Roam",
+  "description": "A local event and travel discovery app for Trivandrum that scrapes and curates events using AI.",
+  "requestFramePermissions": []
+}
